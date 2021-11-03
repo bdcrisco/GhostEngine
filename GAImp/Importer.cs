@@ -1,0 +1,7 @@
+﻿namespace GAImp
+{
+    class Importer
+    {
+
+    }
+}

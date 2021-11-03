@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAImp", "GAImp\GAImp.csproj", "{FD0774EE-0E73-4319-A652-CB2F55525C6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD0774EE-0E73-4319-A652-CB2F55525C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD0774EE-0E73-4319-A652-CB2F55525C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD0774EE-0E73-4319-A652-CB2F55525C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD0774EE-0E73-4319-A652-CB2F55525C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3ED951AA-530D-46F6-9EA9-31DC9AC96FF9}
+	EndGlobalSection
+EndGlobal

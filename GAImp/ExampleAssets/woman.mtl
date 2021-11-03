@@ -1,0 +1,192 @@
+# Blender MTL File: 'woman.blend'
+# Material Count: 15
+
+newmtl Bra.001
+Ns 90.000016
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.600000 0.600000 0.600000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Bra_Normal.png
+map_Kd C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Bra_Diffuse.png
+map_Ks C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Bra_Specular.png
+map_d C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Bra_Opacity.png
+
+newmtl Cornea.001
+Ns 566.999990
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.552786
+illum 9
+map_Bump C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Cornea_Normal.jpg
+map_Kd C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Cornea_Diffuse.jpg
+refl C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Cornea_Reflection.jpg
+
+newmtl Eye.001
+Ns 359.999995
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Eye_Normal.jpg
+map_Kd C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Eye_Diffuse.jpg
+refl C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Eye_Reflection.jpg
+
+newmtl High_polytail.001
+Ns 90.000016
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.300000 0.300000 0.300000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.400000 C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\High_polytail_Bump.jpg
+map_Kd C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\High_polytail_Diffuse.png
+map_Ks C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\High_polytail_Specular.png
+map_d C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\High_polytail_Opacity.jpg
+
+newmtl Scalp_High_polytail.001
+Ns 90.000016
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.300000 0.300000 0.300000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.400000 C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Scalp_High_polytail_Bump.jpg
+map_Kd C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Scalp_High_polytail_Diffuse.png
+map_Ks C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Scalp_High_polytail_Specular.png
+map_d C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Scalp_High_polytail_Opacity.jpg
+
+newmtl Std_Eyelash.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Std_Eyelash_Diffuse.jpg
+map_d C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Std_Eyelash_Opacity.jpg
+
+newmtl Std_Lower_Teeth.001
+Ns 540.000031
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Std_Lower_Teeth_Normal.png
+map_Kd C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Std_Lower_Teeth_Diffuse.jpg
+
+newmtl Std_Nails.001
+Ns 540.000031
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Std_Nails_Normal.png
+map_Kd C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Std_Nails_Diffuse.jpg
+
+newmtl Std_Skin_Arm.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.600000 0.600000 0.600000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Std_Skin_Arm_Normal.png
+map_Kd C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Std_Skin_Arm_Diffuse.jpg
+
+newmtl Std_Skin_Body.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.600000 0.600000 0.600000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Std_Skin_Body_Normal.png
+map_Kd C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Std_Skin_Body_Diffuse.jpg
+
+newmtl Std_Skin_Head.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.600000 0.600000 0.600000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Std_Skin_Head_Normal.png
+map_Kd C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Std_Skin_Head_Diffuse.jpg
+
+newmtl Std_Skin_Leg.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.600000 0.600000 0.600000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Std_Skin_Leg_Normal.png
+map_Kd C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Std_Skin_Leg_Diffuse.jpg
+
+newmtl Std_Tongue.001
+Ns 540.000031
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Std_Tongue_Normal.png
+map_Kd C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Std_Tongue_Diffuse.jpg
+
+newmtl Std_Upper_Teeth.001
+Ns 540.000031
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Std_Upper_Teeth_Normal.png
+map_Kd C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Std_Upper_Teeth_Diffuse.jpg
+
+newmtl Underwear_Bottoms.001
+Ns 90.000016
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.600000 0.600000 0.600000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Underwear Bottoms_Normal.png
+map_Kd C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Underwear Bottoms_Diffuse.png
+map_Ks C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Underwear Bottoms_Specular.png
+map_d C:\\Users\\master\\AppData\\Local\\Temp\\CharacterCreator3Temp\\Underwear Bottoms_Opacity.png
